@@ -14,6 +14,9 @@ Olá! Sou um estudante de desenvolvimento de software de 21 anos, e um tanto "ge
 ## Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamerson-mt&layout=compact&theme=radical)
 
+## Teste
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Minhas ferramentas
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,figma,,dotnet,cs,,mysql)](https://skillicons.dev)
 
