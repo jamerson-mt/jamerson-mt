@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu GitHub
 
-Olá! Sou um estudante de desenvolvimento de software de 22 anos, e um tanto "generalista". Gosto de explorar diferentes áreas da tecnologia e estou sempre buscando expandir meus conhecimentos. Fique à vontade para conferir meus projetos e entrar em contato se quiser colaborar!
+Olá! Sou estudante de desenvolvimento de software de 22 anos, e um tanto "generalista". Gosto de explorar diferentes áreas da tecnologia e estou sempre buscando expandir meus conhecimentos. Fique à vontade para conferir meus projetos e entrar em contato se quiser colaborar!
 
 ## O que você vai encontrar aqui
 - Projetos de desenvolvimento full-stack
