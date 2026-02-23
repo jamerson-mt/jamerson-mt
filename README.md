@@ -41,5 +41,5 @@ Software Developer focused on the **Microsoft ecosystem**. I specialize in build
 ## Let's connect! 🤝
 Feel free to explore my repositories and reach out for collaborations or a tech chat.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamersonmt)
 
