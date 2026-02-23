@@ -23,10 +23,8 @@ Software Developer focused on the **Microsoft ecosystem**. I specialize in build
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamerson-mt&show_icons=true&theme=dracula&cache_seconds=1800" alt="Jamerson Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamerson-mt&layout=compact&theme=dracula&cache_seconds=1800" alt="Top Langs" height="170" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=jamerson-mt&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamerson-mt&layout=compact&theme=dracula)
 ---
 
 ## 🚀 Skills & Tools
