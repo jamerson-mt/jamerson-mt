@@ -45,8 +45,3 @@ Software Developer focused on the **Microsoft ecosystem**. I specialize in build
 
 ### Let's connect! 🤝
 Feel free to explore my repositories and reach out for collaborations or a tech chat.
-
-📂 **GitHub:** [github.com/jamerson-mt](https://github.com/jamerson-mt)
-🚀 **Feel free to check out my projects and get in touch!**
-
-#### Faça um bom passeio! 🚀
