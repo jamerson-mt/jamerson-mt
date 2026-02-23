@@ -24,12 +24,7 @@ Software Developer focused on the **Microsoft ecosystem**. I specialize in build
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamerson-mt&show_icons=true&theme=dracula" alt="Jamerson Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamerson-mt&layout=compact&theme=dracula" alt="Top Langs" height="170" />
-</p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ---
 
 ## 🚀 Skills & Tools
@@ -47,6 +42,4 @@ Software Developer focused on the **Microsoft ecosystem**. I specialize in build
 Feel free to explore my repositories and reach out for collaborations or a tech chat.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO_AQUI)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamerson-mt)
 
-#### Faça um bom passeio! 🚀
