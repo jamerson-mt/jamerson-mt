@@ -1,26 +1,52 @@
-# Bem-vindo ao Meu GitHub
+# Hi, I'm Jamerson! 👋 
 
-Olá! Sou estudante de desenvolvimento de software de 22 anos, e um tanto "generalista". Gosto de explorar diferentes áreas da tecnologia e estou sempre buscando expandir meus conhecimentos. Fique à vontade para conferir meus projetos e entrar em contato se quiser colaborar!
+**Full Stack Developer | .NET, Azure & Vue.js**
 
-## O que você vai encontrar aqui
-- Projetos de desenvolvimento full-stack
-- Exploração de novas tecnologias
-- Projetos paralelos e experimentos
-- Desenvolvimento de APIs
+Software Developer focused on the **Microsoft ecosystem**. I specialize in building robust systems and scalable REST APIs using **C# and ASP.NET Core**, integrated with **Azure** cloud solutions and modern **Vue.js** interfaces.
 
-## Estatísticas do GitHub
-![jamerson-mt](https://github-readme-stats.vercel.app/api?username=jamerson-mt&show_icons=true&theme=radical)
+---
 
-## Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamerson-mt&layout=compact&theme=radical)
+### 🛠 Tech Stack
 
-## Minhas ferramentas
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,figma,,dotnet,cs,,mysql)](https://skillicons.dev)
+#### **Backend**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![.NET 10](https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
+#### **Frontend**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) 
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+#### **Database & Cloud**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+---
 
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamerson-mt&show_icons=true&theme=radical" alt="Jamerson Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamerson-mt&layout=compact&theme=radical" alt="Top Langs" height="150" />
+</p>
 
-Obrigado por visitar meu perfil!
+---
+
+## 🚀 Skills & Tools
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,postgres,vue,js,html,css,vite,figma,git,ubuntu)](https://skillicons.dev)
+
+---
+
+## 🌍 Languages
+- **Portuguese:** Native
+- **English:** Intermediate (B1/B2) - *Focusing on technical documentation and global collaboration.*
+
+---
+
+### Let's connect! 🤝
+Feel free to explore my repositories and reach out for collaborations or a tech chat.
+
+📂 **GitHub:** [github.com/jamerson-mt](https://github.com/jamerson-mt)
+🚀 **Feel free to check out my projects and get in touch!**
 
 #### Faça um bom passeio! 🚀
