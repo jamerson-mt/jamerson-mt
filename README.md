@@ -32,7 +32,7 @@ Software Developer focused on the **Microsoft ecosystem**. I specialize in build
 ## 📊 GitHub Stats & Languages
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=jamerson-mt&theme=vue_dark&border_radius=10" alt="GitHub Streak" height="170px" />
+  <img src="https://streak-stats.demolab.com/?user=jamerson-mt&theme=vue_dark" alt="GitHub Streak" height="170px" />
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jamerson-mt&layout=compact&theme=tokyonight&hide=html,css&border_radius=10&v=2" alt="Linguagens de Jamerson" height="170px" />
 </p>
