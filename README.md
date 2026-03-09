@@ -35,7 +35,7 @@ Software Developer focused on the **Microsoft ecosystem**. I specialize in build
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=jamerson-mt&theme=vue_dark" alt="GitHub Streak" height="170px" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamerson-mt&layout=compact&theme=vue_dark&hide=html,css" alt="Linguagens de Jamerson" height="170px" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=jamerson-mt&layout=compact&theme=vue_dark&hide=html,css" alt="Linguagens de Jamerson" height="170px" />
 </p>
 
 ---
