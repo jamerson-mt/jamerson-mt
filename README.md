@@ -29,6 +29,8 @@ Software Developer focused on the **Microsoft ecosystem**. I specialize in build
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jamerson-mt&show_icons=true&theme=visual_studio_code&count_private=true" alt="Estatísticas de Jamerson" height="180px" />
