@@ -26,15 +26,15 @@ Software Developer focused on the **Microsoft ecosystem**. I specialize in build
 
 ## 🚀 Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,postgres,vue,js,html,css,vite,figma,git,ubuntu)](https://skillicons.dev)
-![GitHub Streak](https://streak-stats.demolab.com/?user=jamerson-mt&theme=visual_studio_code)
 ---
 
 ---
 
 ## 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=jamerson-mt&theme=visual_studio_code)
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamerson-mt&show_icons=true&theme=visual_studio_code&count_private=true" alt="Estatísticas de Jamerson" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamerson-mt&layout=compact&theme=visual_studio_code&hide=html,css" alt="Linguagens de Jamerson" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jamerson-mt&show_icons=true&theme=visual_studio_code&count_private=true&cache=1" alt="Estatísticas de Jamerson" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamerson-mt&layout=compact&theme=visual_studio_code&hide=html,css&cache=1" alt="Linguagens de Jamerson" height="180px" />
 </p>
 
 ---
