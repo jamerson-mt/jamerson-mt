@@ -23,12 +23,17 @@ Software Developer focused on the **Microsoft ecosystem**. I specialize in build
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
-![Jamerson GitHub stats](https://github-readme-stats.vercel.app/api?username=jamerson-mt&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamerson-mt&layout=compact&theme=dracula)
----
 
 ## 🚀 Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,postgres,vue,js,html,css,vite,figma,git,ubuntu)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamerson-mt&show_icons=true&theme=visual_studio_code&count_private=true" alt="Estatísticas de Jamerson" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamerson-mt&layout=compact&theme=visual_studio_code&hide=html,css" alt="Linguagens de Jamerson" height="180px" />
+</p>
 
 ---
 
@@ -42,4 +47,3 @@ Software Developer focused on the **Microsoft ecosystem**. I specialize in build
 Feel free to explore my repositories and reach out for collaborations or a tech chat.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamersonmt)
-
