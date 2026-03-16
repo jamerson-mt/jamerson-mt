@@ -27,16 +27,13 @@ Software Developer focused on the **Microsoft ecosystem**. I specialize in build
 ## 🚀 Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,postgres,vue,js,html,css,vite,figma,git,ubuntu)](https://skillicons.dev)
 
----
-
 ## 📊 GitHub Stats & Languages
 
-<p >
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jamerson-mt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Estatísticas do GitHub" height="170px" />
-
-<p >
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jamerson-mt&layout=compact&theme=tokyonight&hide=html,css&border_radius=10&v=2" alt="Linguagens de Jamerson" height="170px" />
 </p>
+
 ---
 
 ## 🌍 Languages
