@@ -1,6 +1,6 @@
 # Hi, I'm Jamerson! 👋 
 
-**Full Stack Developer | .NET, Azure & Vue.js**
+**Full Stack Developer | .NET, ASP.NET Core & Vue.js**
 
 Software Developer focused on the **Microsoft ecosystem**. I specialize in building robust systems and scalable REST APIs using **C# and ASP.NET Core**, integrated with **Azure** cloud solutions and modern **Vue.js** interfaces.
 
