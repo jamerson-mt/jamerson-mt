@@ -20,7 +20,7 @@ Software Developer focused on the **Microsoft ecosystem**. I specialize in build
 
 #### **Database & Cloud**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 
 ---
 
